@@ -1,3 +1,9 @@
 i use git to manage code project.
 
 devA modifies the file!
+
+devA modifies the file again!
+
+devB modifies the file!
+
+master modifies the file!
